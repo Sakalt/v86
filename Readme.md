@@ -33,7 +33,7 @@ list of emulated hardware:
 
 [9front](https://copy.sh/v86/?profile=9front) —
 [Arch Linux](https://copy.sh/v86/?profile=archlinux) —
-[Android-x86 1.6-r2](https://copy.sh/v86?profile=android) —
+[Android-x86 1.6-r2](https:/sakalt.github.io/v86?profile=android) —
 [Android-x86 4.4-r2](https://copy.sh/v86?profile=android4) —
 [BasicLinux](https://copy.sh/v86/?profile=basiclinux) —
 [Buildroot Linux](https://copy.sh/v86/?profile=buildroot) —
